@@ -1,6 +1,6 @@
 # Unique-IP-logger
 <a>
-  <img src="#" alt="Logo" width="500" />
+  <img src="https://github.com/VincentRitchie/Unique-IP-logger/blob/main/unique_ip_logger%20img.jpg" alt="Logo" width="720" />
 </a>
 
 ## Table of Contents
@@ -35,11 +35,11 @@ python install
 To use this project, run the following command:
 
 ```sh
-python vulnerability_scanner.py
+python unique_ip_logger.py
 ```
 ## Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/VincentRitchie/Unique-IP-logger/blob/main/Unique%20IP%20Logger%20Screenshot.png)
 
 ## Future Enhancements
 
