@@ -39,7 +39,10 @@ python unique_ip_logger.py
 ```
 ## Screenshot
 
-![screenshot](https://github.com/VincentRitchie/Unique-IP-logger/blob/main/Unique%20IP%20Logger%20Screenshot.png)
+<a>
+  <img src="https://github.com/VincentRitchie/Unique-IP-logger/blob/main/Unique%20IP%20Logger%20Screenshot.png" alt="Logo" width="720" />
+</a>
+
 
 ## Future Enhancements
 
