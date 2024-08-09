@@ -26,8 +26,8 @@ The Unique IP Address Logger is a Python script that logs IP addresses while ens
 To install and run this project, follow these steps:
 
 ```sh
-git clone https://github.com/yourusername/repo.git
-cd repo
+git clone https://github.com/VincentRitchie/Unique-Ip-logger.git
+cd Unique-Ip-logger
 python install
 ```
 
