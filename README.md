@@ -93,6 +93,6 @@ Vincent Chimaobi (CyberGhoxt)
 Connect with me on 
 - [GitHub](https://www.github.com/VincentRitchie/VincentRitchie)
 
-- [LinkedIn](https://ng.linkedin.com/in/vincent-chimaobi)
+- [LinkedIn](https://www.linkedin.com/in/vincent-chimaobi-53b458216?trk=contact-info)
 
 - [X](https://x.com/vin_chimaobi042)
